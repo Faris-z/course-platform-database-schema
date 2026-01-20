@@ -27,4 +27,4 @@ The project includes:
 - `DB design report.pdf` → Full documentation (ERD, schema, SQL scripts, triggers, and queries)
 
 ## Tools & Concepts
-ER Modeling, Relational Mapping, Normalization (3NF), SQL (DDL/DML), Constraints, Triggers, Views, Audit Logging
+ER Modeling, Relational Mapping, Normalization (3NF), SQL (DDL/DML), Constraints, Triggers, Views, Audit Logging.
